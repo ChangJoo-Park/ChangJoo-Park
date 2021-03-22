@@ -2,7 +2,6 @@
 
 - [Medium](https://changjoopark.medium.com/) : 주로 이곳에 적습니다.
 - [https://changjoo-park.github.io/](https://changjoo-park.github.io/) : 가끔 적습니다.
-- [Vue.js 한국 사용자모임](https://vuejs-kr.github.io/) : 조만간 Nuxt.js, Vue.js 3 관련 내용을 공유하고 싶습니다.
 
 ## 프로젝트
 

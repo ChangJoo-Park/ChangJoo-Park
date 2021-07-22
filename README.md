@@ -1,7 +1,6 @@
 ## 글
 
 - [Medium](https://changjoopark.medium.com/) : 주로 이곳에 적습니다.
-- [https://changjoo-park.github.io/](https://changjoo-park.github.io/) : 가끔 적습니다.
 
 ## 프로젝트
 

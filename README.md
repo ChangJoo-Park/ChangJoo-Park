@@ -15,8 +15,3 @@
 - 모임 : 간단한 약속 잡기를 위한 웹 사이트
 - [시사플러스 2019 서울맛집 지도화](https://github.com/9bow/Seoul-MatZip-2019)
 - 독일 마트 가격 추적기 : Swift 를 이용한 iOS 모바일 앱. 사용하지 않아 내렸습니다
-
-
-## Pull Request
-
-[최근에 만든 Pull Request](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+assignee%3AChangJoo-Park)

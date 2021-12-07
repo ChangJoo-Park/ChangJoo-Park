@@ -7,6 +7,7 @@
 ### 운영 중
 
 - [기록.](https://girok.app/) : 익명 피드백 앱 🛠
+- [디독 아카이브](https://didok-archive.github.io/) 
 
 ### 운영했으나 지금은 운영하지 않는 프로젝트
 
